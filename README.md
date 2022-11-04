@@ -10,7 +10,7 @@ Directories: Python
                 prepare_table_for_ML.ipynb - preparation of a table with unclassifed variable stars
              IDL
                 Different procidures for first data reduction, fitting, plotting data etc.
-             Polphot
+             Polarphot
                 Codes writen for the 3-Band Survey(Gabdeev et al., 2020) by Timur Fatkhullin. The method is discribed here 2020AstBu..75..320 & 
                 2020AstL...46..482G. The databese writen by Dmitry Makarov https://github.com/dimakarov/3BS
               

@@ -1,0 +1,7 @@
+Contetnts of the directory "Work with obs data" in alphabetic order
+
+3BS_anal - extracting data for the chosen object from 3BS results FITS-table
+Art_XT - first steps in table correlation not using astropy.coordinates and some data analysis
+Astrometry.net by URL.ipynb - the name tells by it self
+
+

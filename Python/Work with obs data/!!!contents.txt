@@ -3,5 +3,8 @@ Contetnts of the directory "Work with obs data" in alphabetic order
 3BS_anal - extracting data for the chosen object from 3BS results FITS-table
 Art_XT - first steps in table correlation not using astropy.coordinates and some data analysis
 Astrometry.net by URL.ipynb - the name tells by it self
+Convolve_spec_with_filt.ipynb - convolution of spectra with filter to plot a light curve
+KECKspec_sum.ipynb - plotting LRIS blue spectrum to look for emission lines
+Plot_Xray_LC.ipynb - plotting X-ray light curve from archive FITS-file
 
 

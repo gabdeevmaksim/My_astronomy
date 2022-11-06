@@ -1,5 +1,8 @@
 Contents of the directory "X-ray stars" in alphabetical order
 
-ARTXC_unknown.ipynb - correlation of unknown Art_XC objects with SDSS using astroquery. Trying to find color features for different types of objects.
-ArtXC_RitKolb.ipynb - period distribution of Art_XC objects correlated with Ritter&Kolb catalogue
-Correl_PAN_RTT.ipynb - comparing RTT-150 psf photometry with PANSTARRS.  
+ARTXC_unknown - correlation of unknown Art_XC objects with SDSS using astroquery. Trying to find color features for different types of objects.
+ArtXC_RitKolb - period distribution of Art_XC objects correlated with Ritter&Kolb catalogue
+Correl_PAN_RTT - comparing RTT-150 psf photometry with PANSTARRS.  
+Count_diff_SpT - counting stars of different spectral type in a table with Teff
+FandMstars - X-ray luminosities of M and F stars in 100 pc radius from Sun
+GAIA_APASS - checking Gershprung-Russell dependency using temperatures calculated from APASS colours

@@ -1,8 +1,11 @@
 Contents of the directory "IDL' in alphabetic order
 
 acc_sky_sub - accurate sky lines subtraction using Gauss fitting in an extended source 
-burakan_filt_conver.pro - convolution of Byurakan observatory middle-band filters in purpose to search polars
-calc_atan.pro - function for calculation linear polarisation angle
-change_fitshead.pro - change values in a fits-header
-clean_sky_remain.pro - cleaning of remains of strong sky line  in a spectra near 5575A
-color_amstars.pro - plotting a graph describing the 3BS method for conference presentation
+burakan_filt_conver - convolution of Byurakan observatory middle-band filters in purpose to search polars
+calc_atan - function for calculation linear polarisation angle
+change_fitshead - change values in a fits-header
+clean_sky_remain - cleaning of remains of strong sky line  in a spectra near 5575A
+color_amstars - plotting a graph describing the 3BS method for conference presentation
+coloursofpolars - plotting polar colours for paper
+comets - calculating circular polarisation over an image for comet 2014A4
+compare - plotting two spectra to compare

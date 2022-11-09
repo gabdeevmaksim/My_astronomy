@@ -9,4 +9,7 @@ Plot_Xray_LC.ipynb - plotting X-ray light curve from archive FITS-file
 Plot_f_paper - plotting graphs for different papers
 Plot_lc_from_cv_psf_phot - plotting light curves for MT Dra
 Polarimetry - dependency polarization from distance to centre and from intensity
+Polaris_J2218 - plotting measured polarisation for object J2218
+Polarisation_BTA - polarisation and light curve measured on BTA/SCORPIO-2
+Polarisation_MMPP - polarisation of a standard WD measured on Zeiss-1000/MMPP
 

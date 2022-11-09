@@ -9,3 +9,6 @@ color_amstars - plotting a graph describing the 3BS method for conference presen
 coloursofpolars - plotting polar colours for paper
 comets - calculating circular polarisation over an image for comet 2014A4
 compare - plotting two spectra to compare
+control_of_photometry - comparing photometry obtained on BTA/SCORPIO and Zeiss-1000/CCD
+convert_coords - converting hour coordinates to degrees 
+convert_time - writing a time like an hour with decimals

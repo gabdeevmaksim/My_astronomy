@@ -9,3 +9,7 @@ GAIA_APASS - checking Gershprung-Russell dependency using temperatures calculate
 Pleiades_from_gaia - extracting Pleiades stars from GAIA catalogue of close clusters
 SpT_comparison - comparing spectral types obtained from Simbad and temperatures from GAIA for 100 brightest X-ray stars
 Temperatures_GAIAxPANSTARRS - comparing temperatures from GAIA with temperatures from PANSTARRS. SDSS colours were recalculated to Johnson-Cousins system
+XRayStars - comparing SDSS and PANSTARRS photometry and temperatures calculated from g-r colour for X-ray stars
+XRayStars1 - comparing SDSS and PANSTARRS photometry and temperatures calculated from g-r colour for X-ray stars. Second iteration. 
+binariesGAIA - looking for X-ray stars which are binaries 
+

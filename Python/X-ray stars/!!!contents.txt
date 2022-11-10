@@ -12,4 +12,6 @@ Temperatures_GAIAxPANSTARRS - comparing temperatures from GAIA with temperatures
 XRayStars - comparing SDSS and PANSTARRS photometry and temperatures calculated from g-r colour for X-ray stars
 XRayStars1 - comparing SDSS and PANSTARRS photometry and temperatures calculated from g-r colour for X-ray stars. Second iteration. 
 binariesGAIA - looking for X-ray stars which are binaries 
-
+clear_table - cleaning X-ray stars table from zero values and negative temperatures
+countur_plot - Gershprung-Russell diagram for X-ray stars and Fx-Temp, (Fx/Fbol)-Temp dependencies for them
+gaia_allstars_200pc - adding Teff, distance in parsecs, absolute magnitude et al. columns to GAIA table

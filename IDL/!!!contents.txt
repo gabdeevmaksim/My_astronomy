@@ -12,3 +12,6 @@ compare - plotting two spectra to compare
 control_of_photometry - comparing photometry obtained on BTA/SCORPIO and Zeiss-1000/CCD
 convert_coords - converting hour coordinates to degrees 
 convert_time - writing a time like an hour with decimals
+count_filds_a_objects - counting number of objects in  FOV of the 3BS image
+crea_sent_4k - creating sensativety curve for the 4K matrix of SCORPIO-2
+create_bias - creating a BIAS

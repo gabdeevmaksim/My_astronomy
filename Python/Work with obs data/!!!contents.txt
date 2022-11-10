@@ -12,4 +12,6 @@ Polarimetry - dependency polarization from distance to centre and from intensity
 Polaris_J2218 - plotting measured polarisation for object J2218
 Polarisation_BTA - polarisation and light curve measured on BTA/SCORPIO-2
 Polarisation_MMPP - polarisation of a standard WD measured on Zeiss-1000/MMPP
-
+Polyfit - using linear interpolation to recalculate white light instrumental magnitudes to the R filter magnitudes
+Read_LRIS_fits - rewriting transposed LRIS FITS-files for colleagues to view
+Read_VO - plotting SED using VO tables downloaded from VizieR Photometry viewer

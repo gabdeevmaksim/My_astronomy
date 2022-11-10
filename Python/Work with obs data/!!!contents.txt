@@ -5,7 +5,7 @@ Art_XT - first steps in table correlation not using astropy.coordinates and some
 Astrometry.net by URL.ipynb - the name tells by it self
 Convolve_spec_with_filt.ipynb - convolution of spectra with filter to plot a light curve
 KECKspec_sum.ipynb - plotting LRIS blue spectrum to look for emission lines
-Plot_Xray_LC.ipynb - plotting X-ray light curve from archive FITS-file
+Plot_Xray_LC.ipynb - plotting X-ray light curve from XMM-NCA FITS-file
 Plot_f_paper - plotting graphs for different papers
 Plot_lc_from_cv_psf_phot - plotting light curves for MT Dra
 Polarimetry - dependency polarization from distance to centre and from intensity

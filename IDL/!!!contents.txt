@@ -15,3 +15,6 @@ convert_time - writing a time like an hour with decimals
 count_filds_a_objects - counting number of objects in  FOV of the 3BS image
 crea_sent_4k - creating sensativety curve for the 4K matrix of SCORPIO-2
 create_bias - creating a BIAS
+create_disperse2d_new - plotting NEON spectra to control lines position
+create_flat4k - creating FLAT field for the 4K matrix of SCORPIO-2
+create_input_for_searching - a function that helps search needed files

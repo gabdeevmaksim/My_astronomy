@@ -5,7 +5,7 @@ ArtXC_RitKolb - period distribution of Art_XC objects correlated with Ritter&Kol
 Correl_PAN_RTT - comparing RTT-150 psf photometry with PANSTARRS.  
 Count_diff_SpT - counting stars of different spectral type in a table with Teff
 FandMstars - X-ray luminosities of M and F stars in 100 pc radius from Sun
-GAIA_APASS - checking Gershprung-Russell dependency using temperatures calculated from APASS colours
+GAIA_APASS - checking Hershprung-Russell dependency using temperatures calculated from APASS colours
 Pleiades_from_gaia - extracting Pleiades stars from GAIA catalogue of close clusters
 SpT_comparison - comparing spectral types obtained from Simbad and temperatures from GAIA for 100 brightest X-ray stars
 Temperatures_GAIAxPANSTARRS - comparing temperatures from GAIA with temperatures from PANSTARRS. SDSS colours were recalculated to Johnson-Cousins system
@@ -15,3 +15,7 @@ binariesGAIA - looking for X-ray stars which are binaries
 clear_table - cleaning X-ray stars table from zero values and negative temperatures
 countur_plot - Gershprung-Russell diagram for X-ray stars and Fx-Temp, (Fx/Fbol)-Temp dependencies for them
 gaia_allstars_200pc - adding Teff, distance in parsecs, absolute magnitude et al. columns to GAIA table
+plot_100_fluxiest - plotting 100 most flux X-ray stars on the H-R diagram
+plot_GAIA_binaries - same as 'binariesGAIA' but using hexbin
+plot_HRD - plotting HRD for X-ray stars on different distances
+Xstars_100pc - some characteristics of X-ray stars sample in 100 pc radius

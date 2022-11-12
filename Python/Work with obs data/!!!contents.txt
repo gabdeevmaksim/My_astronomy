@@ -15,3 +15,6 @@ Polarisation_MMPP - polarisation of a standard WD measured on Zeiss-1000/MMPP
 Polyfit - using linear interpolation to recalculate white light instrumental magnitudes to the R filter magnitudes
 Read_LRIS_fits - rewriting transposed LRIS FITS-files for colleagues to view
 Read_VO - plotting SED using VO tables downloaded from VizieR Photometry viewer
+RitterKolb_masses - plotting results of my work on different dependencies built using Ritter-Kolb catalogue of close binary systems
+SRG_LC_spec - plotting light curves and spectra of the SRG object
+Schwope_phot - eclipse profiles of the V808 Aur object from Schwope's paper

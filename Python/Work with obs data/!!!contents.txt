@@ -18,3 +18,10 @@ Read_VO - plotting SED using VO tables downloaded from VizieR Photometry viewer
 RitterKolb_masses - plotting results of my work on different dependencies built using Ritter-Kolb catalogue of close binary systems
 SRG_LC_spec - plotting light curves and spectra of the SRG object
 Schwope_phot - eclipse profiles of the V808 Aur object from Schwope's paper
+V808EclipseSchwope - eclipse profiles of the V808 Aur object from Schwope's paper, unbinned data
+XMM_period - estimation of the photometric period for XMM object using Lomb-Scargle method
+log_for_KECK - a function for making list of  KECK FITS-files 
+normalize_reradiation - normalization of the reradiation fluxes from a secondary component surface in a close binary system
+param_deter - parameters determination of a close binary system 
+plot_neon_KECK - plotting KECK neon 1d spectrum with line identification
+

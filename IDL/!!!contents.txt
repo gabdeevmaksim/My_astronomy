@@ -18,3 +18,6 @@ create_bias - creating a BIAS
 create_disperse2d_new - plotting NEON spectra to control lines position
 create_flat4k - creating FLAT field for the 4K matrix of SCORPIO-2
 create_input_for_searching - a function that helps search needed files
+create_log_tfosc - creating a night of observation log file on TFOSC RTT150
+create_log_ztsh - creating a night of observation log file on ZTSh
+create_red_files - creating BIAS and FLAT for photometric observations on Zeiss-1000

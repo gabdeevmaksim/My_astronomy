@@ -25,3 +25,6 @@ create_spec_cube - creating cube of spectral images
 cube - creating cube of polarimetric images
 cyclotron_cont - extracting cyclotron emission from spectra using "local weighted polynomial regression smoother" (Cleveland 1979, Journal of the Amer. Statistical Association, 74, 829-836).
 daophot_psf_MMPP - psf photometry of MMPP images using daophot routines
+def_std - calculating magnitudes for secondary standards
+div_pol_spec - dividing spectropolarimetric image for four different files for separate reduction 
+disp_curve_Nstep - identification of emission lines in neon spectra and calculating dispersion for SCORPIO-2 new gritings. N - the number from 0 to 3. 

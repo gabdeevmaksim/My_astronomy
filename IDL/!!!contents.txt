@@ -28,3 +28,7 @@ daophot_psf_MMPP - psf photometry of MMPP images using daophot routines
 def_std - calculating magnitudes for secondary standards
 div_pol_spec - dividing spectropolarimetric image for four different files for separate reduction 
 disp_curve_Nstep - identification of emission lines in neon spectra and calculating dispersion for SCORPIO-2 new gritings. N - the number from 0 to 3. 
+disper_pol - dispersion for spectropolarimetric image
+dqe_tfosc - DQE for TFOSC instrument of RTT-150 telescope
+edmund_filt_conver - convolution of middle-band Edmund Optics filters in purpose to search polars
+entropy_minim - testing entropy minimization method for Doppler shift measurement in low resolution spectra

@@ -32,3 +32,6 @@ disper_pol - dispersion for spectropolarimetric image
 dqe_tfosc - DQE for TFOSC instrument of RTT-150 telescope
 edmund_filt_conver - convolution of middle-band Edmund Optics filters in purpose to search polars
 entropy_minim - testing entropy minimization method for Doppler shift measurement in low resolution spectra
+equiv_width - equivalent widths of emission lines HI and HeII4686
+err_of_phot - photometry errors for the 3BS method
+extra_ra_dec_f_casjob - extract coordinates from a table to use in a sciserver CasJobs

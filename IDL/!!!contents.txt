@@ -35,3 +35,6 @@ entropy_minim - testing entropy minimization method for Doppler shift measuremen
 equiv_width - equivalent widths of emission lines HI and HeII4686
 err_of_phot - photometry errors for the 3BS method
 extra_ra_dec_f_casjob - extract coordinates from a table to use in a sciserver CasJobs
+extra_spec_pol - extracting spectra from spectropolarimetric image and calculating Stokes parameters
+extra_with_specxtra - extracting spectra from image using Specxtra routines
+extraction_4k - extracting spectra from the 4K matrix image of SCORPIO-2 

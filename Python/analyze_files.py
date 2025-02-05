@@ -62,10 +62,10 @@ def analyze_csv_files(file_paths):
 
 # Example usage (replace with your actual file paths):
 file_paths = [
-    "/Users/wera/Max_astro/Slovakia/elisa_on_a_server/dataset/detached_nospots_period(0.01-1)_1000000_g.csv",
-    "/Users/wera/Max_astro/Slovakia/elisa_on_a_server/dataset/detached_nospots_period(0.01-1)_1000000_gaia.csv",
-    "/Users/wera/Max_astro/Slovakia/elisa_on_a_server/dataset/detached_nospots_period(0.01-1)_1000000_I.csv",
-    "/Users/wera/Max_astro/Slovakia/elisa_on_a_server/dataset/detached_nospots_period(0.01-1)_1000000_V.csv",
+    "/Users/wera/Max_astro/Slovakia/elisa_on_a_server/dataset/detached_nospots_period(1.01-2)_1000000_g.csv",
+    "/Users/wera/Max_astro/Slovakia/elisa_on_a_server/dataset/detached_nospots_period(1.01-2)_1000000_gaia.csv",
+    "/Users/wera/Max_astro/Slovakia/elisa_on_a_server/dataset/detached_nospots_period(1.01-2)_1000000_I.csv",
+    "/Users/wera/Max_astro/Slovakia/elisa_on_a_server/dataset/detached_nospots_period(1.01-2)_1000000_V.csv",
 ]
 
 analyze_csv_files(file_paths)
